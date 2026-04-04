@@ -1,5 +1,5 @@
 首先装好 Linux 系统推荐Debian 11（2022-03-26） （https://laotzu.ftp.acc.umu.se/debian-cd/current/amd64/iso-cd/debian-11.3.0-amd64-netinst.iso）或 Ubuntu LTS
-安装编译依赖：                            （2023-04-30） （https://laotzu.ftp.acc.umu.se/debian-cd/current/amd64/iso-cd/debian-11.7.0-amd64-netinst.iso）hyper-v1代额外安装介质选否-nju教育镜像（30+Mbps）软件包流行度调查否xfce桌面（V4.16）（1178个）25分钟左右安装完成。电源管理器关闭锁屏！
+安装编译依赖：                            （2023-04-30） （https://laotzu.ftp.acc.umu.se/debian-cd/current/amd64/iso-cd/debian-11.7.0-amd64-netinst.iso）hyper-v1代额外安装介质选否-nju教育镜像（30+Mbps）软件包流行度调查否xfce桌面（V4.16）（1178个）25分钟左右安装完成。电源管理器关闭锁屏！！
 
 Debian默认是不允许root登录的，   $是普通用户（＃是root用户）
 用户普通用户登录,打开终端,输入 命令 su - 回车
